@@ -19,7 +19,7 @@ Imports:
     DT (>= 0.18),
     caTools (>= 1.18.2),
     Hmisc (>= 4.7-0),
-    shiny (>= 1.6.1),
+    shiny (>= 1.6.0),
     xts (>= 0.12.1),
     dygraphs (>= 1.1.1.6),
     plotly (>= 4.10.0),
